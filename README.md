@@ -6,7 +6,7 @@ I am Assistant Software Test Specialist and i will be the best in future 😎
 ### Find me 🌍
 
 <a href="https://www.linkedin.com/in/utkukilincci/">
-  <img alt="Utku's LinkdeIN" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img alt="Utku's LinkdeIN" width="25px" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" />
 </a>
 <a href="https://www.instagram.com/utkukilincci/">
   <img alt="Utku's Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
