@@ -1,7 +1,7 @@
 ### Hi there 👋 It's Utku!
 
 
-I am Assistant Software Test Specialist and i will be the best in future 😎 
+I am Assistant Software Test Specialist😎 
 
 ### Find me 🌍
 
