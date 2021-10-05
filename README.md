@@ -1,7 +1,7 @@
 ### Hi there 👋 It's Utku!
 
 
-I am Assistant Software Test Specialist😎 
+I am Associate Developer in Test at Trendyol Group😎 
 
 ### Find me 🌍
 
