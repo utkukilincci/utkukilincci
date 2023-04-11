@@ -1,7 +1,7 @@
 ### Hi there 👋 It's Utku!
 
 
-I am Associate Developer in Test at Trendyol Group😎 
+I am Developer in Test at Trendyol Group😎 
 
 ### Find me 🌍
 
